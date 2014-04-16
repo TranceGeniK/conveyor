@@ -99,6 +99,7 @@ _SERIAL_PORT_CATEGORIES = [
     _SerialPortCategory(0x2341, 0x0010, 'Arduino Mega', 's3g',),
     _SerialPortCategory(0x23C1, 0xD314, 'Replicator',   's3g',),
     _SerialPortCategory(0x23C1, 0xB015, 'Replicator 2', 's3g',),
+    _SerialPortCategory(0x23C1, 0xB016, 'Replicator 2', 's3g',),
 ]
 
 
